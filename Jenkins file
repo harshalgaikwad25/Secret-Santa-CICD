@@ -14,7 +14,7 @@ pipeline {
     stages {
         stage('Git Checkout') {
             steps {
-                git changelog: false, poll: false, url: 'https://github.com/kadamvignesh/secretsanta-generator.git'
+                git changelog: false, poll: false, url: 'https://github.com/kadamvignesh/Secret-Santa-CICD.git'
             }
         }
 
