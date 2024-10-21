@@ -25,6 +25,10 @@ Following are the steps you can do to deploy this application using Jenkins.
 5 - Create a pipeline with the pipeline script present and build it.
 
 6 - Dont forget to add jenkins in your docker group by sudo usermod -aG docker jenkins , after doing this restart jenkins. 
-    
+
+
+
+  ![image alt](https://github.com/kadamvignesh/Secret-Santa-CICD/blob/main/Screenshot%20(71).png?raw=true)
+  
 
     
