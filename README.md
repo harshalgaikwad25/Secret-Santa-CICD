@@ -28,7 +28,22 @@ Following are the steps you can do to deploy this application using Jenkins.
 
 
 
+ 
+   Complete Jenkins CICD pipleine
+
   ![image alt](https://github.com/kadamvignesh/Secret-Santa-CICD/blob/main/Screenshot%20(71).png?raw=true)
+
+  
+
+  This is how the deployed application will look like:
+  ![image alt](https://github.com/kadamvignesh/Secret-Santa-CICD/blob/main/Screenshot%20(75).png?raw=true)
+
+
+  ![image alt](https://github.com/kadamvignesh/Secret-Santa-CICD/blob/main/Screenshot%20(76).png?raw=true)
+
+  
+
+  
   
 
     
